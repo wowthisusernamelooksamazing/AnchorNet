@@ -5,7 +5,7 @@ a smooth kernel function. AnchorNet takes data and kernel function as input and 
 
 
 ## Main Features
-* AnchorNet is generic, allowing user-defined kernel functions, both uniform and non-uniform data. 
+* AnchorNet is generic, allowing user-defined kernel functions and data distributions. 
 * AnchorNet works for datasets in arbitrary dimensions.
 * AnchorNet does not require forming the kernel matrix. The algorithm computes low-rank factors given data and kernel function only.
 * The total complexity of AnchorNet is O(rN) for computing a rank-r approximaiton to an N-by-N kernel matrix.
