@@ -12,6 +12,10 @@ Given dataset X, kernel function f, hyperparameters ---> low-rank factors U, V f
 * AnchorNet does not require forming the kernel matrix.
 * The total complexity of AnchorNet is O(rN) for computing a rank-r approximaiton to an N-by-N kernel matrix.
 
+## Scope
+AnchorNet can be used whevever the kernel matrix f(X,X) is numerically low-rank, i.e. the singular values decay rapidly. 
+If the singular values decay slowly, then it is inappropriate to use a low-rank approximation.
+
 ## Use
 AnchorNet is in active development (currently 1.0.0) and its interface may change.
 
