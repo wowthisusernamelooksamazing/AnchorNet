@@ -1,8 +1,8 @@
 ## AnchorNet (Version 1.0.0)
 AnchorNet is a
 package and framework to perform fast data-driven low-rank approximation for dense matrices associated with
-a smooth kernel function. AnchorNet takes data and kernel function as input and does not require forming the kernel matrix.
-An illustration is below:    
+a smooth kernel function. AnchorNet takes data and kernel function as input and does not require forming the kernel matrix.    
+Illustration:    
 Given dataset X, kernel function f, hyperparameters ---> low-rank factors U, V for approximating the numerically low-rank kernel matrix f(X,X)
 
 
