@@ -30,3 +30,6 @@ main.m
 AnchorNet attempts to follow [semantic versioning](https://www.semver.org). Do note, that in
 it's current (1.0.0) development, such versioning may not be strictly
 followed.
+
+## Contact
+Difeng Cai
