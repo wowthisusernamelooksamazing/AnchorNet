@@ -23,7 +23,7 @@ AnchorNet is in active development (currently 1.0.0) and its interface may chang
 main.m
 
 ## Publications and Preprints/Submissions
- -  [Fast Deterministic Approximation of Symmetric Indefinite Kernel Matrices with High Dimensional Datasets](https://arxiv.org/abs/2102.05215) Difeng Cai, James Nagy, Yuanzhe Xi
+ -  [Fast Deterministic Approximation of Symmetric Indefinite Kernel Matrices with High Dimensional Datasets](https://arxiv.org/abs/2102.05215) by Difeng Cai, James Nagy, Yuanzhe Xi
 
 
 ## Versioning
